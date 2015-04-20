@@ -1,2 +1,3 @@
 # pydio-shibboleth
-Shibboleth Authentication for Pydio
+
+Move to: https://github.com/burgosz/auth.shibboleth_sql/
